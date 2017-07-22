@@ -1,0 +1,265 @@
+[{
+    "id_q": 1,
+    "title": "The word 'racecar' is spelled the same forwards and backwards.",
+    "respons": [{
+        "id_r": 1,
+        "title": "True"
+      },
+      {
+        "id_r": 2,
+        "title": "False"
+      }
+    ],
+    "corect": 1
+  },
+  {
+    "id_q": 2,
+    "title": "Two of the following numbers add up to seventeen.    6 - 13 - 2 - 12 - 7 - 14",
+    "respons": [{
+        "id_r": 1,
+        "title": "True"
+      },
+      {
+        "id_r": 2,
+        "title": "False"
+      }
+    ],
+    "corect": 2
+  },
+  {
+    "id_q": 3,
+    "title": "Which one of the five is least like the other four?",
+    "respons": [{
+        "id_r": 1,
+        "title": "Shark"
+      },
+      {
+        "id_r": 2,
+        "title": "Deer"
+      },
+      {
+        "id_r": 3,
+        "title": "Cow"
+      },
+      {
+        "id_r": 4,
+        "title": "Dog"
+      },
+      {
+        "id_r": 5,
+        "title": "Lion"
+      }
+    ],
+    "corect": 1
+  },
+  {
+    "id_q": 4,
+    "title": "If you rearrange the letters 'ANICH', you would have the name of a/an:",
+    "respons": [{
+        "id_r": 1,
+        "title": "Ocean"
+      },
+      {
+        "id_r": 2,
+        "title": "State"
+      },
+      {
+        "id_r": 3,
+        "title": "City"
+      },
+      {
+        "id_r": 4,
+        "title": "Animal"
+      }
+    ],
+    "corect": 3
+  },
+
+
+
+
+  {
+    "id_q": 5,
+    "title": "Ralph travels four blocks north, then two blocks east, then three blocks south and finally two blocks west.   How many blocks is Ralph from his starting place?",
+    "respons": [{
+        "id_r": 1,
+        "title": "one block"
+      },
+      {
+        "id_r": 2,
+        "title": "two blocks"
+      },
+      {
+        "id_r": 3,
+        "title": "three blocks"
+      },
+      {
+        "id_r": 4,
+        "title": "four blocks"
+      }
+    ],
+    "corect": 2
+  },
+
+  {
+    "id_q": 6,
+    "title": "If you rearrange the letters 'TOOKY', you would have the name of a/an:",
+    "respons": [{
+        "id_r": 1,
+        "title": "Ocean"
+      },
+      {
+        "id_r": 2,
+        "title": "State"
+      },
+      {
+        "id_r": 3,
+        "title": "City"
+      },
+      {
+        "id_r": 4,
+        "title": "Animal"
+      }
+    ],
+    "corect": 4
+  },
+
+
+  {
+    "id_q": 7,
+    "title": "'If all Bloobs are Toogs and no Toogs are Goppers, then we can be certain that absolutely no Goppers are Bloobs.' This statement is:",
+    "respons": [{
+        "id_r": 1,
+        "title": "True"
+      },
+      {
+        "id_r": 2,
+        "title": "False"
+      },
+      {
+        "id_r": 3,
+        "title": "Neither"
+      }
+    ],
+    "corect": 1
+  },
+
+  {
+    "id_q": 8,
+    "title": "Which one of the five makes the best comparison? Son is to mother as nephew is to:",
+    "respons": [{
+        "id_r": 1,
+        "title": "aunt"
+      },
+      {
+        "id_r": 2,
+        "title": "mother"
+      },
+      {
+        "id_r": 3,
+        "title": "daughter"
+      },
+      {
+        "id_r": 4,
+        "title": "nephew"
+      }
+    ],
+    "corect": 2
+  },
+
+  {
+    "id_q": 9,
+    "title": "Which one of the five makes the best comparison? Tree is to shade as chimney is to:",
+    "respons": [{
+        "id_r": 1,
+        "title": "smoke"
+      },
+      {
+        "id_r": 2,
+        "title": "fireplace"
+      },
+      {
+        "id_r": 3,
+        "title": "brick"
+      },
+      {
+        "id_r": 4,
+        "title": "sky"
+      }
+    ],
+    "corect": 3
+  },
+
+  {
+    "id_q": 10,
+    "title": "At a store, they cut the price 40% for a particular item.  By what percent must the item be increased if you wanted to sell it at the original price?",
+    "respons": [{
+        "id_r": 1,
+        "title": "  66.70%"
+      },
+      {
+        "id_r": 2,
+        "title": "30.00%"
+      },
+      {
+        "id_r": 3,
+        "title": "40.00%"
+      },
+      {
+        "id_r": 4,
+        "title": "45.00%"
+      }
+    ],
+    "corect": 1
+  },
+
+  {
+    "id_q": 11,
+    "title": "Which one of the letters does not belong in the following series: D - F - H - J - K - N - P - R",
+    "respons": [{
+        "id_r": 1,
+        "title": "K"
+      },
+      {
+        "id_r": 2,
+        "title": "H"
+      },
+      {
+        "id_r": 3,
+        "title": "J"
+      },
+      {
+        "id_r": 4,
+        "title": "Y"
+      }
+    ],
+    "corect": 4
+  },
+
+  {
+    "id_q": 12,
+    "title": "Mike, six years old, is twice as old as his brother.  How old will Mike be when he is one and a half times as old as his brother?",
+    "respons": [{
+        "id_r": 1,
+        "title": "9"
+      },
+      {
+        "id_r": 2,
+        "title": "7"
+      },
+      {
+        "id_r": 3,
+        "title": "8"
+      },
+      {
+        "id_r": 4,
+        "title": "10"
+      }
+    ],
+    "corect": 3
+  }
+
+
+
+
+]
