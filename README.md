@@ -1,5 +1,11 @@
 # React Quiz
 
-Quiz created with React
+Quiz App created with React
 
-You can see a demo version here <a href="http://stefanciobanu.com/reactjs-quiz/" target="_blank">React Quiz</a>
+![](https://github.com/stefan002377/reactjs-quiz/blob/master/public/reactjsquiz.png)
+
+## Demo
+[React Quiz - Live DEMO](http://www.stefanciobanu/reactjs-quiz)
+
+## Author
+[Stefan Ciobanu](http://www.stefanciobanu.com)
